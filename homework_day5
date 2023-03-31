@@ -1,4 +1,3 @@
-# Python_Camp
  ## PyTest, Python dilinde yazılmış bir test çerçevesidir. Test fonksiyonlarının yanı sıra, test fonksiyonlarını daha da özelleştirmek için bazı özellikler sağlayan "decorator" adı verilen özel işlevlere de sahiptir. PyTest test fonksiyonlarında kullanabileceğiniz bazı önemli decoratorler şunlardır:
 
 ## @pytest.fixture: Bu decorator, bir test fonksiyonunun bir öncesi veya sonrası işlemi gerçekleştirmesi gerektiğinde kullanılır. Örneğin, bir veritabanı bağlantısı açmak veya kapatmak gibi. Bu decoratorle işaretlenmiş bir fonksiyon, başka test fonksiyonları tarafından çağrılabilir.
